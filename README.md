@@ -1,2 +1,2 @@
-# diplomado
-En este repositorio se encntaran todos los archivos del proyecto
+# Diplomado_ciencia_de_Datos
+En este repositorio se encuentraran todos los archivos del diplomado
